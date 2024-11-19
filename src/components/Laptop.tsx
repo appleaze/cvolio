@@ -3,10 +3,9 @@ import { HTMLAttributes } from 'react'
 
 interface LaptopProps extends HTMLAttributes<HTMLDivElement> {
   imgSrc: string
-  dark?: boolean
 }
 
-const Laptop = ({ imgSrc, className, dark = false, ...props }: LaptopProps) => {
+const Laptop = ({ imgSrc, className, ...props }: LaptopProps) => {
   return (
     <div
       className={cn(
