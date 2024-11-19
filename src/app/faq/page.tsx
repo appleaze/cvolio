@@ -41,38 +41,53 @@ const Faq = () => {
                 What is Cvolio?
               </AccordionTrigger>
               <AccordionContent>
-                Cvolio is a platform that helps you create beautiful portfolio
-                websites quickly using pre-designed templates.
+                Cvolio is your ultimate solution for creating a professional
+                personal portfolio instantly. Whether you are a student,
+                freelancer, or job seeker, Cvolio helps you showcase your
+                skills, experience, and projects with ease.
               </AccordionContent>
             </AccordionItem>
 
             <AccordionItem value="item-2">
               <AccordionTrigger className="text-lg font-semibold">
-                How do I get started?
+                How do I purchase a portfolio website on Cvolio?
               </AccordionTrigger>
               <AccordionContent>
-                Simply choose a template, customize it with your information,
-                and deploy it! It's that easy.
+                The process is simple! Follow these steps: Choose your preferred
+                template or domain extension. Complete the guided steps on our
+                platform. Do not forget to apply a promo code for discounts!
+                Want detailed instructions? Visit our How It Works page for more
+                info.
               </AccordionContent>
             </AccordionItem>
 
             <AccordionItem value="item-3">
               <AccordionTrigger className="text-lg font-semibold">
-                Are the templates free?
+                What are the payment options for Cvolio?
               </AccordionTrigger>
               <AccordionContent>
-                Yes! We provide a variety of free templates to get you started
-                with your portfolio creation.
+                Cvolio supports multiple payment methods to ensure a smooth
+                transaction: Bank Transfer (Virtual Account): Supported by major
+                banks. Xendit Payments for a variety of options, including:
+                Virtual Accounts (Mandiri, BRI, BNI, Permata) E-Wallets (OVO,
+                DANA, LinkAja) QRIS payments Credit Cards and Paylater
+                installments Note: Payments must be completed within 48 hours to
+                avoid expiration. Finish your transaction promptly to secure
+                your domain and template.
               </AccordionContent>
             </AccordionItem>
 
             <AccordionItem value="item-4">
               <AccordionTrigger className="text-lg font-semibold">
-                Can I customize the templates?
+                What happens after I complete my payment?
               </AccordionTrigger>
               <AccordionContent>
-                Absolutely! All templates are fully customizable to fit your
-                unique needs.
+                Once your payment is confirmed: You will receive an email
+                invoice as proof of purchase. Our team will prepare your
+                portfolio website, ready within 2 business days. Once completed,
+                you will receive another email with: Access to your website
+                Editing guide and documentation If you encounter any issues, our
+                customer support team is here to help.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
